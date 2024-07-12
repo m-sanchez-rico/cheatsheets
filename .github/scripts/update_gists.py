@@ -7,7 +7,9 @@ TOKEN = os.getenv('TOKEN_FOR_GISTS')
 # List of your gists and their corresponding file paths in the repository
 GISTS = {
     '7bac0468121a1733efd5c6fa9a1df205': 'docker.md',
-    
+    'c393bd8cbb94bec36e2c2711ad8e8086': 'git.md',
+    '3d636f41f02596abb320f7feb7e907f9': 'ubuntu.md',
+    '03ad546d6ded5b0501d004e59a9a5f82': 'vs_code.md'
     # Add more gists and file paths as needed
 }
 
