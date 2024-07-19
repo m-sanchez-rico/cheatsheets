@@ -9,7 +9,8 @@ GISTS = {
     '7bac0468121a1733efd5c6fa9a1df205': 'docker.md',
     'c393bd8cbb94bec36e2c2711ad8e8086': 'git.md',
     '3d636f41f02596abb320f7feb7e907f9': 'ubuntu.md',
-    '03ad546d6ded5b0501d004e59a9a5f82': 'vs_code.md'
+    '03ad546d6ded5b0501d004e59a9a5f82': 'vs_code.md',
+    '78c47c75715eb99a4b4d51afe8a84347': 'vim.md'
     # Add more gists and file paths as needed
 }
 
