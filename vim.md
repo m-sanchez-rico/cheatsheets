@@ -57,7 +57,7 @@
 | **Configuration examples**    |                                                |                                                                                                  |
 |-------------------------------|------------------------------------------------|----------------------------------------------------------|
 | **file**                      | `~/.vimrc`                                     | Configuration file                                       |
-| **Plugin Installation**       | `curl -fLo ~/.vim/autoload/plug.vim --create-dirs \ <url>` | Install vim-plug                             |
+| **Plugin Installation**       | `curl -fLo ~/.vim/autoload/plug.vim --create-dirs \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`                                                            | Install vim-plug                             |
 |                               | `call plug#begin('~/.vim/plugged')`... `call plug#end()`   | Clause to configure manage plugings          |
 |                               | `:PlugIntall`                                  | Command to install pluggings                             |
 |                               | `Plug 'easymotion/vim-easymotion'`             | Install Easy moting                                      |
